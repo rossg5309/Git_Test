@@ -7,6 +7,7 @@ shinyUI(fluidPage(
 
   # Sidebar with a slider input for number of bins
   # Altered the input values
+  # Add another line to see if git all works
   sidebarLayout(
     sidebarPanel(
       sliderInput("bins",
