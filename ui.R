@@ -5,6 +5,8 @@
 # http://shiny.rstudio.com
 #
 
+#This is a hotfix that was needed. Submitted from RStudio
+
 library(shiny)
 
 shinyUI(fluidPage(
