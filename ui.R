@@ -1,14 +1,3 @@
-#Testing from RStudio
-
-#<<<<<<< HEAD
-# This is the user-interface definition of a Shiny web application.
-# You can find out more about building applications with Shiny here:
-#
-# http://shiny.rstudio.com
-#
-
-#This is a hotfix that was needed. Submitted from RStudio
-
 library(shiny)
 
 shinyUI(fluidPage(
@@ -32,6 +21,3 @@ shinyUI(fluidPage(
     )
   )
 ))
-#=======
-#This is after the hotfix. From R Studio.
-#>>>>>>> test_commit
